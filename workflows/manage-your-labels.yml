@@ -1,0 +1,17 @@
+name: manage-your-labels
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+jobs:
+  mirror-labels:
+    runs-on: ubuntu-latest
+    env:
+      # Create a classic token with permissions: repo and write:org
+      BOT_TOKEN: ${{ secrets.PAT }}
+    name: manage-your-labels
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions-automation/manage-your-labels@main

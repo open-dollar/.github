@@ -1,0 +1,108 @@
+LABEL_GROUPS:
+  DEFAULT:
+    security:
+      color: ff9913
+      description: ""
+    research:
+      color: 0E8A16
+      description: ""
+    low-priority:
+      color: BBC387
+      description: ""
+    priority:
+      description: ""
+      color: ffd700
+    1 pt:
+      description: ""
+      color: 480FAE
+    2 pt:
+      color: 638ECA
+      description: ""
+    1/2 pt:
+      color: 78D250
+      description: ""
+    web:
+      color: 5BB9AF
+      description: ""
+    api:
+      color: AB93D8
+      description: ""
+    dependency change:
+      color: 98E219
+      description: ""
+    ch-15:
+      color: 93C47D
+      description: ""
+    ch-16:
+      color: 76A5AF
+      description: ""
+    ch-17:
+      color: 6D9EEB
+      description: ""
+    ch-18:
+      color: 6FA8DC
+      description: ""
+    ch-19:
+      color: 8E7CC3
+      description: ""
+    ch-20:
+      color: 6D9EEB
+      description: ""
+    ch-21:
+      color: 99ff33
+      description: ""
+    ch-22:
+      color: b60205
+      description: ""
+    ch-23:
+      color: 3FF3F6
+      description: ""
+    ch-24:
+      color: CE7E00
+      description: ""
+    ch-25:
+      color: 00B0F0
+      description: ""
+    ch-26:
+      color: 38761d
+      description: ""
+    ch-27:
+      color: 8ff591
+      description: ""
+    ch-28:
+      color: 4C1130
+      description: ""
+    ch-29:
+      color: 00B050
+      description: ""
+    ch-30:
+      color: 6FA8DC
+      description: ""
+    ch-31:
+      color: C27BA0
+      description: ""
+    ch-32:
+      color: EA9999
+      description: ""
+    ch-33:
+      color: 6AA84F
+      description: ""
+    ch-34:
+      color: f4CCCC
+      description: ""
+    planning:
+      color: 743A2A
+      description: ""
+    size/L:
+      color: ededed
+      description: ""
+    size/M:
+      color: ededed
+      description: ""
+    size/S:
+      color: ededed
+      description: ""
+    size/XXL:
+        color: ededed
+        description: ""
+REPOS: {}
