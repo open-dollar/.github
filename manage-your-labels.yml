@@ -105,4 +105,7 @@ LABEL_GROUPS:
     size/XXL:
         color: ededed
         description: ""
+    audit 01/24:
+        color: 0f2b30
+        description: ""
 REPOS: {}
