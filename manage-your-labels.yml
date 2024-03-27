@@ -108,4 +108,7 @@ LABEL_GROUPS:
     audit 01/24:
         color: 0f2b30
         description: ""
+    tech-debt:
+        color: 882d17
+        description: ""
 REPOS: {}
