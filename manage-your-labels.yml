@@ -30,66 +30,6 @@ LABEL_GROUPS:
     dependency change:
       color: 98E219
       description: ""
-    ch-15:
-      color: 93C47D
-      description: ""
-    ch-16:
-      color: 76A5AF
-      description: ""
-    ch-17:
-      color: 6D9EEB
-      description: ""
-    ch-18:
-      color: 6FA8DC
-      description: ""
-    ch-19:
-      color: 8E7CC3
-      description: ""
-    ch-20:
-      color: 6D9EEB
-      description: ""
-    ch-21:
-      color: 99ff33
-      description: ""
-    ch-22:
-      color: b60205
-      description: ""
-    ch-23:
-      color: 3FF3F6
-      description: ""
-    ch-24:
-      color: CE7E00
-      description: ""
-    ch-25:
-      color: 00B0F0
-      description: ""
-    ch-26:
-      color: 38761d
-      description: ""
-    ch-27:
-      color: 8ff591
-      description: ""
-    ch-28:
-      color: 4C1130
-      description: ""
-    ch-29:
-      color: 00B050
-      description: ""
-    ch-30:
-      color: 6FA8DC
-      description: ""
-    ch-31:
-      color: C27BA0
-      description: ""
-    ch-32:
-      color: EA9999
-      description: ""
-    ch-33:
-      color: 6AA84F
-      description: ""
-    ch-34:
-      color: f4CCCC
-      description: ""
     planning:
       color: 743A2A
       description: ""
@@ -103,15 +43,69 @@ LABEL_GROUPS:
       color: ededed
       description: ""
     size/XXL:
-        color: ededed
-        description: ""
-    audit 01/24:
-        color: 0f2b30
-        description: ""
+      color: ededed
+      description: ""
     tech-debt:
-        color: 882d17
-        description: ""
-    post-launch:
-        color: 755C81
-        description: ""
+      color: 882d17
+      description: ""
+    ch-33:
+      color: 6AA84F
+      description: ""
+    ch-34:
+      color: f4CCCC
+      description: ""
+    ch-35:
+      color: 93C47D
+      description: ""
+    ch-36:
+      color: 76A5AF
+      description: ""
+    ch-37:
+      color: 6D9EEB
+      description: ""
+    ch-38:
+      color: 6FA8DC
+      description: ""
+    ch-39:
+      color: 8E7CC3
+      description: ""
+    ch-40:
+      color: 6D9EEB
+      description: ""
+    ch-41:
+      color: 99ff33
+      description: ""
+    ch-42:
+      color: b60205
+      description: ""
+    ch-43:
+      color: 3FF3F6
+      description: ""
+    ch-44:
+      color: CE7E00
+      description: ""
+    ch-45:
+      color: 00B0F0
+      description: ""
+    ch-46:
+      color: 38761d
+      description: ""
+    ch-47:
+      color: 8ff591
+      description: ""
+    ch-48:
+      color: 4C1130
+      description: ""
+    ch-49:
+      color: 00B050
+      description: ""
+    ch-50:
+      color: 6FA8DC
+      description: ""
+    ch-51:
+      color: C27BA0
+      description: ""
+    ch-52:
+      color: EA9999
+      description: ""
 REPOS: {}
